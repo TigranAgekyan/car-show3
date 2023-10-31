@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@react-three/drei": "9.88.9",
+    "@react-three/fiber": "8.15.9",
+    "@react-three/postprocessing": "2.7.0",
+    "react-router-dom": "^6.17.0"
   }
 }
